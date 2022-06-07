@@ -586,6 +586,10 @@ blockquote {
   line-height: 15px;
 }
 
+#footer {
+  background: #EEEEEE;
+}
+
 #footer .navigation {
   display: block;
 }
